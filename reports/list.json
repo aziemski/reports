@@ -36,40 +36,5 @@
         "updatedAt": "2014-01-25T06:16:14Z",
         "createdAt": "2014-01-02T03:15:15Z",
         "description": "Column report"
-    },
-    {
-        "id": "6",
-        "rev": "1",
-        "updatedAt": "2014-01-25T06:16:14Z",
-        "createdAt": "2014-01-02T03:15:15Z",
-        "description": "Line chart report"
-    },
-    {
-        "id": "7",
-        "rev": "1",
-        "updatedAt": "2014-01-25T06:16:14Z",
-        "createdAt": "2014-01-02T03:15:15Z",
-        "description": "XY chart report"
-    },
-    {
-        "id": "8",
-        "rev": "1",
-        "updatedAt": "2014-01-25T06:16:14Z",
-        "createdAt": "2014-01-02T03:15:15Z",
-        "description": "Column series clustered"
-    },
-    {
-        "id": "9",
-        "rev": "1",
-        "updatedAt": "2014-01-25T06:16:14Z",
-        "createdAt": "2014-01-02T03:15:15Z",
-        "description": "Column series stack"
-    },
-    {
-        "id": "10",
-        "rev": "1",
-        "updatedAt": "2014-01-25T06:16:14Z",
-        "createdAt": "2014-01-02T03:15:15Z",
-        "description": "Column histogram"
     }
 ]
