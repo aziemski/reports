@@ -1,14 +1,14 @@
 [
     {
         "id": "2",
-        "rev": "230",
+        "rev": "1",
         "updatedAt": "2014-01-10T06:16:14Z",
         "createdAt": "2014-01-02T03:15:15Z",
         "description": "Grid"
     },
     {
         "id": "1",
-        "rev": "70",
+        "rev": "1",
         "updatedAt": "2014-02-10T01:16:14Z",
         "createdAt": "2014-01-02T02:15:15Z",
         "description": "Pie"
@@ -17,7 +17,7 @@
 
      {
         "id": "3",
-        "rev": "70",
+        "rev": "1",
         "updatedAt": "2014-02-10T01:16:14Z",
         "createdAt": "2014-01-02T02:15:15Z",
         "description": "Grid 2"
