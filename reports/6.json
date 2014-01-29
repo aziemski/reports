@@ -1,0 +1,30 @@
+ { 
+    "id": "6",
+    "rev": "1",
+    "updatedAt": "2014-01-25T06:16:14Z",
+    "createdAt": "2014-01-02T03:15:15Z",
+    "description": "Line chart report",
+    "content":
+          {
+            "firstChartKey" : "line-1",
+            "charts" : {
+                "line-1" : {
+                  "options" : {"title" : "Line chart", "unit" : "PLN", "legendTitle" : "Legend title"},
+                  "chartType" : "LINE",
+                    "dataMatrix" : {
+                      "cols" : [ {"dataType" : "String"},
+                                {"type":"Number", "label" : "Jan-12"}, {"type":"Number", "label" : "Feb-12"}, {"type":"Number", "label" : "Mar-12"},
+                                {"type":"Number", "label" : "Apr-12"}, {"type":"Number", "label" : "May-12"}, {"type":"Number", "label" : "Jun-12"},
+                                {"type":"Number", "label" : "Jul-12"}, {"type":"Number", "label" : "Aug-12"}, {"type":"Number", "label" : "Sep-12"}],
+                      "rows" : [
+                        { "c" : [ {"v" : "Series title 0"}, {"v":10.4 }, {"v":20.32}, {"v":50.5}, {"v":80.99}, {"v":30.0 }, {"v":25.0  }, {"v":30.0}, {"v":21.87}, {"v":18.3 } ]},
+                        { "c" : [ {"v" : "Series title 1"}, {"v":-43.4}, {"v":18.28 }, {"v":10.58}, {"v":20.78}, {"v":110.57}, {"v":-24.67}, {"v":45.0}, {"v":137.0 }, {"v":127.0 } ]},
+                        { "c" : [ {"v" : "Series title 2"}, {"v":145.5 }, {"v":114.66}, {"v":10.5 }, {"v":145.56}, {"v":310.0 }, {"v":70.79  }, {"v":71.22}, {"v":315.88}, {"v":192.23} ]},
+                        { "c" : [ {"v" : "Series title 3"}, {"v":310.67}, {"v":166.78}, {"v":257.6}, {"v":199.99}, {"v":114.0 }, {"v":22.78  }, {"v":190.5}, {"v":235.95}, {"v":169.93} ]},
+                        { "c" : [ {"v" : "Series title 4"}, {"v":77.40}, {"v":20.99}, {"v":77.5}, {"v":0.97 }, {"v":19.0 }, {"v":5.8   }, {"v":60.0}, {"v":38.2 }, {"v":17.23} ]}
+                      ]
+                    }
+                }
+            }
+          }
+}

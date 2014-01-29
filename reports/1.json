@@ -1,0 +1,29 @@
+ { 
+    "id": "1",
+    "rev": "230",
+    "updatedAt": "2014-01-10T06:16:14Z",
+    "createdAt": "2014-01-02T03:15:15Z",
+    "description": "Description of the report",
+    "content":
+          {
+            "firstChartKey" : "pie-abc",
+            "charts" : {
+              "pie-abc" : {
+                "options" : {"title": "pie1", "legendTitle": "Brands", "unit": " mln"},
+                "chartType" : "PIE",
+                  "dataMatrix" : {
+                    "cols" : [ {"dataType" : "String"}, {"dataType" : "Number"} ],
+                    "rows" : [ 
+                      { "c" : [ {"v" : "Luksja"}, { "v" : 8.0, "n":  "line-123"} ]}, 
+                      { "c" : [ {"v" : "Bambino"}, {"v" : 6.0, "n":  "line-de21" } ]}, 
+                      { "c" : [ {"v" : "Palmolive"},{"v" : 32.0, "n": "line-av21"} ]},
+                      { "c" : [ {"v" : "Nivea"}, { "v" : 27.0} ]},
+                      { "c" : [ {"v" : "Dove"}, {"v" : 17.0} ]}, 
+                      { "c" : [ {"v" : "Protex"}, {"v" : 10.0} ]} 
+                    ]
+                  }
+              }
+
+            }
+          }
+}

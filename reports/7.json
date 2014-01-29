@@ -1,0 +1,30 @@
+ { 
+    "id": "7",
+    "rev": "1",
+    "updatedAt": "2014-01-25T06:16:14Z",
+    "createdAt": "2014-01-02T03:15:15Z",
+    "description": "XY chart report",
+    "content":
+          {
+            "firstChartKey" : "xy-1",
+            "charts" : {
+                "xy-1" : {
+                  "options" : {"title" : "XY chart", "unit" : "PLN", "legendTitle" : "Legend title"},
+                  "chartType" : "XY",
+                    "dataMatrix" : {
+                      "cols" : [ {"dataType" : "String"},
+                                {"type":"Number", "label" : "Jan-12"}, {"type":"Number", "label" : "Feb-12"}, {"type":"Number", "label" : "Mar-12"},
+                                {"type":"Number", "label" : "Apr-12"}, {"type":"Number", "label" : "May-12"}, {"type":"Number", "label" : "Jun-12"},
+                                {"type":"Number", "label" : "Jul-12"}, {"type":"Number", "label" : "Aug-12"}, {"type":"Number", "label" : "Sep-12"}],
+                      "rows" : [
+                        { "c" : [ {"v" : "Series title 0"}, {"v":130.4 }, {"v":230.32}, {"v":501.5}, {"v":280.99}, {"v":130.0 }, {"v":325.0  }, {"v":30.0}, {"v":21.87}, {"v":18.3 } ]},
+                        { "c" : [ {"v" : "Series title 1"}, {"v":-432.4}, {"v":118.8 }, {"v":20.58}, {"v":-260.78}, {"v":-210.57}, {"v":-24.67}, {"v":540.0}, {"v":137.0 }, {"v":172.0 } ]},
+                        { "c" : [ {"v" : "Series title 2"}, {"v":455.5 }, {"v":124.66}, {"v":0.5 }, {"v":45.56}, {"v":10.0 }, {"v":0.79  }, {"v":170.0}, {"v":135.88}, {"v":139.23} ]},
+                        { "c" : [ {"v" : "Series title 3"}, {"v":320.67}, {"v":626.78}, {"v":517.6}, {"v":99.99}, {"v":114.0 }, {"v":-2.78  }, {"v":490.0}, {"v":-235.95}, {"v":619.93} ]},
+                        { "c" : [ {"v" : "Series title 4"}, {"v":717.40}, {"v":250.99}, {"v":717.5}, {"v":130.97 }, {"v":119.0 }, {"v":-15.8   }, {"v":-360.0}, {"v":-338.2 }, {"v":717.23} ]}
+                      ]
+                    }
+                }
+            }
+          }
+}

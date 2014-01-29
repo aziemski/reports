@@ -1,0 +1,29 @@
+ { 
+    "id": "5",
+    "rev": "230",
+    "updatedAt": "2014-01-10T06:16:14Z",
+    "createdAt": "2014-01-02T03:15:15Z",
+    "description": "Column report",
+    "content":
+          {
+            "firstChartKey" : "column-123",
+             "charts" : {
+              "column-123" : {
+                "options" : {"title" : "column1", "legendTitle" : "legendTitle", "unit" : "PLN", "displayMode" : "CLUSTERED"},
+                "chartType" : "COLUMN",
+                  "dataMatrix" : {
+                    "cols" : [ {"dataType" : "String"}, {"type":"Number", "label" : "Jan-12"}, {"type":"Number", "label" : "Feb-12"}, {"type":"Number", "label" : "Mar-12"}, 
+                              {"type":"Number", "label" : "Apr-12"}, {"type":"Number", "label" : "May-12"}, {"type":"Number", "label" : "Jun-12"}, 
+                              {"type":"Number", "label" : "Jul-12"}, {"type":"Number", "label" : "Aug-12"}, {"type":"Number", "label" : "Sep-12"}],
+                    "rows" : [ 
+                          { "c" : [ {"v" : "Series title 0"}, {"v":10.4 }, {"v":20.32}, {"v":50.5}, {"v":80.99}, {"v":30.0 }, {"v":25.0  }, {"v":30.0}, {"v":21.87}, {"v":18.3 } ]}, 
+                          { "c" : [ {"v" : "Series title 1"}, {"v":-43.4}, {"v":18.8 }, {"v":0.58}, {"v":60.78}, {"v":10.57}, {"v":-24.67}, {"v":40.0}, {"v":37.0 }, {"v":17.0 } ]}, 
+                          { "c" : [ {"v" : "Series title 2"}, {"v":45.5 }, {"v":14.66}, {"v":0.5 }, {"v":45.56}, {"v":10.0 }, {"v":0.79  }, {"v":70.0}, {"v":35.88}, {"v":19.23} ]},
+                          { "c" : [ {"v" : "Series title 3"}, {"v":30.67}, {"v":66.78}, {"v":57.6}, {"v":99.99}, {"v":11.0 }, {"v":2.78  }, {"v":90.0}, {"v":35.95}, {"v":19.93} ]},
+                          { "c" : [ {"v" : "Series title 4"}, {"v":77.40}, {"v":20.99}, {"v":77.5}, {"v":0.97 }, {"v":19.0 }, {"v":5.8   }, {"v":60.0}, {"v":38.2 }, {"v":17.23} ]}
+                    ]
+                  }
+              }
+            }
+        }
+}

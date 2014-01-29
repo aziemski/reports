@@ -1,0 +1,27 @@
+ { 
+    "id": "4",
+    "rev": "1",
+    "updatedAt": "2014-01-25T06:16:14Z",
+    "createdAt": "2014-01-02T03:15:15Z",
+    "description": "Waterfall report",
+    "content":
+          {
+            "firstChartKey" : "waterfall-1",
+            "charts" : {
+              "waterfall-1" : {
+              "chartType" : "WATERFALL",
+              "options" : {"title": "Waterfall chart", "unit": "PLN"},
+                "dataMatrix" : {
+                  "cols" : [ {"dataType" : "String"}, {"dataType" : "Number"}, {"dataType" : "Number"}, {"dataType" : "Number"}],
+                  "rows" : [
+                    { "c" : [{"v":"Revenue 1"}, {"v":0}, {"v":95}, {"v":1}]},
+                    { "c" : [{"v":"Revenue 2"}, {"v":95}, {"v":55}, {"v":1}]},
+                    { "c" : [{"v":"Cost 1"},    {"v":150}, {"v":-50}, {"v":3}]},
+                    { "c" : [{"v":"Cost 2"},    {"v":100}, {"v":-30}, {"v":3}]},
+                    { "c" : [{"v":"Total"},     {"v":0}, {"v":70}, {"v":0}]}
+                  ]
+                }
+            }
+            }
+          }
+}

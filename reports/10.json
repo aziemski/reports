@@ -1,0 +1,34 @@
+ { 
+    "id": "10",
+    "rev": "1",
+    "updatedAt": "2014-01-10T06:16:14Z",
+    "createdAt": "2014-01-02T03:15:15Z",
+    "description": "Column histogram",
+    "content":
+          {
+            "firstChartKey" : "column-789",
+             "charts" : {
+              "column-789" : {
+                "options" : {"title" : "column1", "legendTitle" : "legendTitle", "unit" : "KG", "displayMode" : "HISTOGRAM"},
+                "chartType" : "COLUMN",
+                  "dataMatrix" : {
+                    "cols" : [ {"dataType" : "String"},
+                              {"type":"Number", "label" : "Jan-12"}, {"type":"Number", "label" : "Feb-12"}, {"type":"Number", "label" : "Mar-12"},
+                              {"type":"Number", "label" : "Apr-12"}, {"type":"Number", "label" : "May-12"}, {"type":"Number", "label" : "Jun-12"}, 
+                              {"type":"Number", "label" : "Jul-12"}, {"type":"Number", "label" : "Aug-12"}, {"type":"Number", "label" : "Sep-12"},
+                              {"type":"Number", "label" : "Oct-12"}, {"type":"Number", "label" : "Nov-12"}, {"type":"Number", "label" : "Dec-12"},
+                              {"type":"Number", "label" : "Jan-13"}, {"type":"Number", "label" : "Feb-13"}, {"type":"Number", "label" : "Mar-13"},
+                              {"type":"Number", "label" : "Apr-13"}, {"type":"Number", "label" : "May-13"}, {"type":"Number", "label" : "Jun-13"},
+                              {"type":"Number", "label" : "Jul-13"}, {"type":"Number", "label" : "Aug-13"}, {"type":"Number", "label" : "Sep-13"},
+                              {"type":"Number", "label" : "Oct-13"}, {"type":"Number", "label" : "Nov-13"}, {"type":"Number", "label" : "Dec-13"}],
+                    "rows" : [ { "c" : [ {"v" : "Series 0"},
+                                {"v":100.50}, {"v":250.99}, {"v":300.5}, {"v":450.97}, {"v":543.0}, {"v":667.8},
+                                {"v":700.0}, {"v":789.2}, {"v":830.23}, {"v":867.0}, {"v":900.2}, {"v":998.23},
+                                {"v":899.0}, {"v":785.2}, {"v":643.23}, {"v":550.0}, {"v":459.2}, {"v":339.23},
+                                {"v":267.0}, {"v":160.2}, {"v":140.23}, {"v":100.0}, {"v":50.2}, {"v":25.23} ]}
+                    ]
+                  }
+              }
+            }
+        }
+}
