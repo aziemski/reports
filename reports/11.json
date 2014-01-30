@@ -9,23 +9,34 @@
             "firstChartKey" : "table-123",
              "charts" : {
               "table-123" : {
-                "options" : {"title" : "column1", "legendTitle" : "legendTitle", "unit" : "KG", "displayMode" : "HISTOGRAM"},
+                "options" : {"title" : "table1", "unit" : "Unit"},
                 "chartType" : "TABLE",
                   "dataMatrix" : {
                     "cols" : [ {"dataType" : "String"},
-                              {"type":"Number", "label" : "Jan-12"}, {"type":"Number", "label" : "Feb-12"}, {"type":"Number", "label" : "Mar-12"},
-                              {"type":"Number", "label" : "Apr-12"}, {"type":"Number", "label" : "May-12"}, {"type":"Number", "label" : "Jun-12"}, 
-                              {"type":"Number", "label" : "Jul-12"}, {"type":"Number", "label" : "Aug-12"}, {"type":"Number", "label" : "Sep-12"},
-                              {"type":"Number", "label" : "Oct-12"}, {"type":"Number", "label" : "Nov-12"}, {"type":"Number", "label" : "Dec-12"},
-                              {"type":"Number", "label" : "Jan-13"}, {"type":"Number", "label" : "Feb-13"}, {"type":"Number", "label" : "Mar-13"},
-                              {"type":"Number", "label" : "Apr-13"}, {"type":"Number", "label" : "May-13"}, {"type":"Number", "label" : "Jun-13"},
-                              {"type":"Number", "label" : "Jul-13"}, {"type":"Number", "label" : "Aug-13"}, {"type":"Number", "label" : "Sep-13"},
-                              {"type":"Number", "label" : "Oct-13"}, {"type":"Number", "label" : "Nov-13"}, {"type":"Number", "label" : "Dec-13"}],
-                    "rows" : [ { "c" : [ {"v" : "Series 0"},
-                                {"v":100.50}, {"v":250.99}, {"v":300.5}, {"v":450.97}, {"v":543.0}, {"v":667.8},
-                                {"v":700.0}, {"v":789.2}, {"v":830.23}, {"v":867.0}, {"v":900.2}, {"v":998.23},
-                                {"v":899.0}, {"v":785.2}, {"v":643.23}, {"v":550.0}, {"v":459.2}, {"v":339.23},
-                                {"v":267.0}, {"v":160.2}, {"v":140.23}, {"v":100.0}, {"v":50.2}, {"v":25.23} ]}
+                              {"type":"Number", "label" : "Type 001"}, {"type":"Number", "label" : "Type 002"}, {"type":"Number", "label" : "Type 003"},
+                              {"type":"Number", "label" : "Type 004"}, {"type":"Number", "label" : "Type 005"}, {"type":"Number", "label" : "Type 006"}, 
+                              {"type":"Number", "label" : "Type 007"}, {"type":"Number", "label" : "Type 008"}, {"type":"Number", "label" : "Type 009"},
+                              {"type":"Number", "label" : "Type 010"}, {"type":"Number", "label" : "Type 011"}, {"type":"Number", "label" : "Type 012"}],
+                    "rows" : [ { "c" : [ {"v" : "Row title 0"},
+                                {"v":0}, {"v":24}, {"v":67}, {"v":30}, {"v":50}, {"v":0}, {"v":3}, {"v":100}, {"v":234}, {"v":98}, {"v":34}, {"v":100} ]},
+                               { "c" : [ {"v" : "Row title 1"},
+                                {"v":0}, {"v":24}, {"v":7}, {"v":0}, {"v":500}, {"v":0}, {"v":3}, {"v":100}, {"v":567}, {"v":9}, {"v":45}, {"v":100} ]},
+                               { "c" : [ {"v" : "Row title 2"},
+                                {"v":0}, {"v":24}, {"v":125}, {"v":0}, {"v":23}, {"v":10}, {"v":77}, {"v":100}, {"v":78}, {"v":97}, {"v":345}, {"v":100} ]},
+                               { "c" : [ {"v" : "Row title 3"},
+                                {"v":0}, {"v":24}, {"v":63}, {"v":0}, {"v":534}, {"v":110}, {"v":5}, {"v":0}, {"v":98}, {"v":97}, {"v":723}, {"v":187} ]},
+                               { "c" : [ {"v" : "Row title 4"},
+                                {"v":0}, {"v":24}, {"v":34}, {"v":30}, {"v":335}, {"v":100}, {"v":80}, {"v":0}, {"v":23}, {"v":79}, {"v":123}, {"v":198} ]},
+                               { "c" : [ {"v" : "Row title 5"},
+                                {"v":0}, {"v":24}, {"v":77}, {"v":70}, {"v":555}, {"v":50}, {"v":88}, {"v":0}, {"v":65}, {"v":99}, {"v":54}, {"v":10} ]},
+                               { "c" : [ {"v" : "Row title 6"},
+                                {"v":0}, {"v":24}, {"v":89}, {"v":80}, {"v":75}, {"v":70}, {"v":89}, {"v":0}, {"v":34}, {"v":123}, {"v":73}, {"v":10} ]},
+                               { "c" : [ {"v" : "Row title 7"},
+                                {"v":0}, {"v":24}, {"v":100}, {"v":120}, {"v":95}, {"v":90}, {"v":90}, {"v":17}, {"v":76}, {"v":345}, {"v":71}, {"v":11} ]},
+                               { "c" : [ {"v" : "Row title 8"},
+                                {"v":0}, {"v":24}, {"v":0}, {"v":120}, {"v":90}, {"v":10}, {"v":30}, {"v":0}, {"v":78}, {"v":346}, {"v":100}, {"v":167} ]},
+                               { "c" : [ {"v" : "Row title 9"},
+                                {"v":0}, {"v":24}, {"v":0}, {"v":400}, {"v":5}, {"v":23}, {"v":56}, {"v":17}, {"v":98}, {"v":214}, {"v":3}, {"v":198} ]}
                     ]
                   }
               }
