@@ -16,10 +16,10 @@
                     "rows" : [ { "c" : [ {"v" :"Category 1", "n":"table-001"} ]},
                                { "c" : [ {"v" :"Category 2", "n":"table-002"} ]},
                                { "c" : [ {"v" :"Category 3", "n":"table-003"} ]},
-                               { "c" : [ {"v" :"Category 4", "n":"table-004"} ]}
-                               { "c" : [ {"v" :"Category 5", "n":"table-005"} ]}
-                               { "c" : [ {"v" :"Category 6", "n":"table-006"} ]}
-                               { "c" : [ {"v" :"Category 7", "n":"table-007"} ]}
+                               { "c" : [ {"v" :"Category 4", "n":"table-004"} ]},
+                               { "c" : [ {"v" :"Category 5", "n":"table-005"} ]},
+                               { "c" : [ {"v" :"Category 6", "n":"table-006"} ]},
+                               { "c" : [ {"v" :"Category 7", "n":"table-007"} ]},
                                { "c" : [ {"v" :"Category 8", "n":"table-008"} ]}
                     ]
                   }
