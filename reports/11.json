@@ -13,10 +13,10 @@
                 "chartType" : "TABLE_COMBO",
                   "dataMatrix" : {
                     "cols" : [ {"dataType" : "String"}, {"dataType" : "String"} ],
-                    "rows" : [ { "c" : [ {"v" :"Category 1"}, {"v" :"table-123"} ]},
-                               { "c" : [ {"v" :"Category 2"}, {"v" :"table-234"} ]},
-                               { "c" : [ {"v" :"Category 3"}, {"v" :"table-456"} ]},
-                               { "c" : [ {"v" :"Category 4"}, {"v" :"table-678"} ]}
+                    "rows" : [ { "c" : [ {"v" :"Category 1", "n":"table-234" } ]},
+                               { "c" : [ {"v" :"Category 2", "n":"table-234"} ]},
+                               { "c" : [ {"v" :"Category 3", "n":"table-456"} ]},
+                               { "c" : [ {"v" :"Category 4", "n":"table-678"} ]}
                     ]
                   }
               },
