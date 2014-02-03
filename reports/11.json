@@ -12,7 +12,7 @@
                 "options" : {"title" : "table combo1", "unit" : "Unit"},
                 "chartType" : "TABLE_COMBO",
                   "dataMatrix" : {
-                    "cols" : [ {"dataType" : "String"}, {"dataType" : "String"} ],
+                    "cols" : [ {"dataType" : "String"}],
                     "rows" : [ { "c" : [ {"v" :"Category 1", "n":"table-123" } ]},
                                { "c" : [ {"v" :"Category 2", "n":"table-234"} ]},
                                { "c" : [ {"v" :"Category 3", "n":"table-456"} ]},
