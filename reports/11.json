@@ -16,7 +16,7 @@
                     "rows" : [ { "c" : [ {"v" :"Category 1"}, {"v" :"table-123"} ]},
                                { "c" : [ {"v" :"Category 2"}, {"v" :"table-234"} ]},
                                { "c" : [ {"v" :"Category 3"}, {"v" :"table-456"} ]},
-                               { "c" : [ {"v" :"Category 2"}, {"v" :"table-678"} ]}
+                               { "c" : [ {"v" :"Category 4"}, {"v" :"table-678"} ]}
 
                     ]
                   }
