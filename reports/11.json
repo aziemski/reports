@@ -9,7 +9,7 @@
             "firstChartKey" : "table-combo1",
              "charts" : {
               "table-combo1" : {
-                "options" : {"title" : "table1", "unit" : "Unit"},
+                "options" : {"title" : "table combo1", "unit" : "Unit"},
                 "chartType" : "TABLE_COMBO",
                   "dataMatrix" : {
                     "cols" : [ {"dataType" : "String"}, {"dataType" : "String"} ],
