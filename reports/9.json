@@ -9,7 +9,7 @@
             "firstChartKey" : "column-567",
              "charts" : {
               "column-567" : {
-                "options" : {"title" : "column1", "legendTitle" : "legendTitle", "unit" : "KG", "displayMode" : "SERIES_STACK"},
+                "options" : {"title" : "column1", "legendTitle" : "Column stacked legend", "unit" : "KG", "displayMode" : "SERIES_STACK"},
                 "chartType" : "COLUMN",
                   "dataMatrix" : {
                     "cols" : [ {"dataType" : "String"}, {"type":"Number", "label" : "Jan-12"}, {"type":"Number", "label" : "Feb-12"}, {"type":"Number", "label" : "Mar-12"}, 

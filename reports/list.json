@@ -71,5 +71,12 @@
         "updatedAt": "2014-01-25T06:16:14Z",
         "createdAt": "2014-01-02T03:15:15Z",
         "description": "Column histogram"
+    },
+    {
+        "id": "11",
+        "rev": "1",
+        "updatedAt": "2014-01-25T06:16:14Z",
+        "createdAt": "2014-01-02T03:15:15Z",
+        "description": "Table report"
     }
 ]

@@ -9,7 +9,7 @@
             "firstChartKey" : "column-234",
              "charts" : {
               "column-234" : {
-                "options" : {"title" : "column1", "legendTitle" : "legendTitle", "unit" : "PLN", "displayMode" : "SERIES_CLUSTERED"},
+                "options" : {"title" : "column1", "legendTitle" : "Column clustered legend", "unit" : "PLN", "displayMode" : "SERIES_CLUSTERED"},
                 "chartType" : "COLUMN",
                   "dataMatrix" : {
                     "cols" : [ {"dataType" : "String"}, {"type":"Number", "label" : "Jan-12"}, {"type":"Number", "label" : "Feb-12"}, {"type":"Number", "label" : "Mar-12"}, 

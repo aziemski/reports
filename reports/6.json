@@ -9,7 +9,7 @@
             "firstChartKey" : "line-1",
             "charts" : {
                 "line-1" : {
-                  "options" : {"title" : "Line chart", "unit" : "PLN", "legendTitle" : "Legend title"},
+                  "options" : {"title" : "Line chart", "unit" : "PLN", "legendTitle" : "Line legend"},
                   "chartType" : "LINE",
                     "dataMatrix" : {
                       "cols" : [ {"dataType" : "String"},

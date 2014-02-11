@@ -9,7 +9,7 @@
             "firstChartKey" : "xy-1",
             "charts" : {
                 "xy-1" : {
-                  "options" : {"title" : "XY chart", "unit" : "PLN", "legendTitle" : "Legend title"},
+                  "options" : {"title" : "XY chart", "unit" : "PLN", "legendTitle" : "XY legend"},
                   "chartType" : "XY",
                     "dataMatrix" : {
                       "cols" : [ {"dataType" : "String"},
