@@ -9,7 +9,7 @@
             "firstChartKey" : "column-789",
              "charts" : {
               "column-789" : {
-                "options" : {"title" : "column1", "legendTitle" : "legendTitle", "unit" : "KG", "displayMode" : "HISTOGRAM"},
+                "options" : {"title" : "column1", "legendTitle" : "Column histogram legend", "unit" : "KG", "displayMode" : "HISTOGRAM"},
                 "chartType" : "COLUMN",
                   "dataMatrix" : {
                     "cols" : [ {"dataType" : "String"},

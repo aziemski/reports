@@ -9,7 +9,7 @@
             "firstChartKey" : "pie-abc",
             "charts" : {
               "pie-abc" : {
-                "options" : {"title": "pie1", "legendTitle": "Brands", "unit": " mln"},
+                "options" : {"title": "pie1", "legendTitle": "Pie legend", "unit": " mln"},
                 "chartType" : "PIE",
                   "dataMatrix" : {
                     "cols" : [ {"dataType" : "String"}, {"dataType" : "Number"} ],
